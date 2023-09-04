@@ -1,0 +1,15 @@
+.btn {
+  background-color: #b68c5a !important;
+}
+.banner {
+  background-image: url(../images/banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+}
+/* .card_main_component{
+    margin: 0;
+    padding: 0;
+    
+} */
